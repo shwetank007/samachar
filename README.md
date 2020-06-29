@@ -26,3 +26,8 @@ To run on local
 $ npm run dev
 
 Navigate to http://localhost:3000
+
+# Deployment
+Deployment Build
+
+$ npm run build:prod
